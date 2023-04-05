@@ -1,0 +1,7 @@
+-Optimize Robots.TXT scanner with regex
+
+-Add Command Line Arguments
+-SiteMap Generator to run open redirects against
+-JS file parsing for hidden logins/api keys/special tokens
+--Also pare JS files for special redirection commands
+-Broken link checker that checks to see if we can take over scripts linked on foreign sitess
